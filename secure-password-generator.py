@@ -108,7 +108,7 @@ if __name__=="__main__":
                 if password == 0:
                     break
                 if password == 1:
-                    print("The generated password exceeds 128 characters, which may not be suitable for some systems or services.Exiting...\n")
+                    print("The generated password exceeds 128 characters, which may not be suitable for some systems or services.\nExiting...\n")
                     break
 
                 print('''
